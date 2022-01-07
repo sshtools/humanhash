@@ -1,7 +1,7 @@
 # humanhash
-Implements a Java version of the Github zacharyvoase/humanhash project.
+Implements a Java version of the Github [zacharyvoase/humanhash](
+https://github.com/zacharyvoase/humanhash) project.
 
-https://github.com/zacharyvoase/humanhash
 
 # Example
 
